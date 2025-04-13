@@ -1,0 +1,797 @@
+die Königin : ملکه
+die Ergebnisse : نتایج
+der Schriftsteller : نویسنده
+der Haushalt : خانه داری، خانواده
+die Vegetarierin : گیاه خوار (زن)
+das Sauerkraut : کلم ترش
+die Bewegung : حرکت، فعالیت
+die Fitness : تناسب اندام
+das Tageslicht : روشنایی روز
+die Gesundheitsförderung : ارتقای سلامت
+der Schreibtisch : میز تحریر
+die Arbeitsbedingungen : شرایط کاری
+der Kreislauf : گردش خون
+die Etage : طبقه
+die Abwehrkräfte : سیستم ایمنی
+der Ausgleich : تعادل، جبران
+die Anleitungen : دستورالعمل ها
+das Suchtmittel : مواد اعتیاد آور
+die Schachtel : جعبه
+der Nichtraucher : غیر سیگاری
+die Ansprechpartnerin : مشاور (خانم)
+das Suchtverhalten : رفتار اعتیادی (رفتار یک فرد معتاد)
+die Beziehungen : روابط
+die Arbeitswelt : دنیای کار
+die Personalabteilung : بخش منابع انسانی
+die Bedürfnisse : نیازها
+das Verhältnis : نسبت، رابطه
+die Uterstützung : حمایت
+der Geschäftsführer : مدیر عامل
+das Konzept : مفهوم، طرح
+der Leitsatz : اصل راهنمایی، شعار، راهنما
+der Vorteil : مزیت
+die Umsetzung : اجرا، پیاده سازی
+das Durchschnittsalter : میانگین سن
+der Inhalt : محتوا
+die Aufmerksamkeit : توجه
+die Anweisungen : دستورالعمل ها، رهنمود ها
+die Einleitung : مقدمه
+die Pannen : خرابی ها، نقض ها
+die Radiosendung : برنامه رادیویی
+der Benzintank : باک بنزین
+der Stau : ترافیک
+der Trauseuge : شاهد عروسی (مرد)
+der Ferientag : روز تعطیل
+das Lotto : لاتاری
+das Turnier : مسابقه، تورنمنت
+die Sonnenfinsternis : خورشید گرفتگی
+der Sternenhimmel : آسمان پر ستاره
+der Glücksmoment : لحظه خوشبختی
+die Festanstellung : شغل ثابت
+der Bürgersteig : پیاده رو
+das Werkzeug : ابزار
+das Jubiläum : سالگرد
+der Betriebsausflug : گردشی که شرکت برگزار میکند
+der Einstand : جشن ورود به کار
+der Ausstand : جشن خداحافظی
+das Sommerfest : جشن تابستانی
+der Kreis : ناحیه، بخش، حوزه
+die Tagesordnung : دستور العمل جلسه
+der Gutachter : کارشناس
+die Gewerkschaft : اتحادیه کارگری
+die Betriebsrat : شورای نمایندگان کارگری
+die Veranstaltung : رویداد، مراسم
+die Verbesserung : بهبود
+der Tod : مرگ
+der Klatsch und Tratsch : شایعات
+die Mühe : تلاش
+die Teambesprechung : جلسه تیمی
+die Teilzeit : نیمه وقت
+die Vollzeit : تمام وقت
+der Tagesablauf : برنامه روزانه
+die Bestätigung : تایید
+die Abenteuerlust : علاقه به ماجراجویی
+die Mitbewohnerin : هم اتاقی (زن)
+die Steuer : مالیات
+die Chefin : رئیس (خانم)
+die Leiterin : سرپرست (زن)
+die Gelegenheit : فرصت
+die Einrichtung : مؤسسه
+der Zeitpunkt : زمان، هنگام
+die Leistung : عملکرد
+der Lieferdienst :  سرویس ارسال-تحویل
+der Alltag : زندگی روزمره
+der Arbeitstag : روز کاری
+die Charaktereigenschaften : ویژگی های شخصیتی
+die Aussagen : اظهارات
+das Vorbild : الگو، نمونه
+der Mut : شجاعت
+die Überstunde : اضافه کاری
+der Nachteil : عیب
+die Erinnerung : خاطره 
+die Werkstatt :  مکانیکی ،کارگاه
+die Ansprache : سخنرانی
+der Betrieb : کارخانه، شرکت
+die Studienwahl : انتخاب رشته
+der Respekt : احترام
+der Lärm : سروصدا
+die Leidenschaft : علاقه، اشتیاق
+der Kontakt : تماس، ارتباط
+der Makler : واسطه، دلال
+das Apartment : آپارتمان
+der Hausmeister : سرایدار
+die Innenstadt : مرکز شهر
+der Vorort : حومه
+der Ofen : اجاق
+der Lift : آسانسور
+die Wohnfläche : فضای مسکونی (داخل خانه)
+die Wand : دیوار
+der Balkon : بالکن
+die Dachterrasse : تراس روی پشت بام
+die Hälfte : نیمی از چیزی
+das Grundstück : زمین، ملک
+das Einfamilienhaus : خانه تک خانواده ای
+das Reihenhaus : خانه ردیفی (خانه ای مشابه با خانه های دیگر در یک ردیف)
+die Illustrierte : مجله مصور
+der Bewohner : ساکن، مقیم
+der Traum : رؤیا، خوب
+das Heim : خانه، کاشانه
+der Artikel : مقاله، حرف تعریف
+die Wohnungsnot : کمبود مسکن
+die Wohngemeinschaft : خانه اشتراکی
+der Zirkuswagen : واگن سیرک
+die Besitzerin : مالک (زن)
+der Mülleimer : سطل زباله
+die Klobürste : برس توالت
+der Schmuck : جواهرات
+der Teilnehmer : شرکت کننده (مرد)
+die Begegnung : ملاقات، مواجه
+die Lage : موقعیت، محل، جایگاه
+die Ferienwohnung : اقامتگاه تعطیلاتی
+die Miethöhe : میزان اجاره
+der Wunsch : آرزو
+die Entscheidung : تصمیم
+der Zugang : ورود، دسترسی
+der Kunde : مشتری (آقا)
+das Gedächtnis : حافظه
+der Einpersonenhaushalt : خانوار تک نفره
+die Entwicklung : توسعه
+die Staaten : دولت ها
+die Fläche : مساحت، سطح
+die Bevölkerung : جمعیت
+die Bürgerinnen : شهروندان زن
+die Zweitschrift : مجله
+die Werbung : تبلیغات
+der Briefkasten : صندوق پست
+das Rätselheft : کتاب معما
+der Verlag : ناشر
+der Absender : فرستنده
+die Anrede : خطاب، عنوان (وقتی فرمی رو پر میکنیم یا نامه مینویسیم)
+der Betreff : موضوع
+der Empfänger : گیرنده
+die Grußformel : احترام و درود آخر نامه (مثلاً با "احترام"، "دوستدار شما")
+die Unterschrift : امضا
+die Beratung : مشاوره
+die Mittagspause : وقت ناهار
+die Ansage : اطلاعیه
+die Bestellung : سفارش
+der Anschluss : اتصال
+die Reaktion : واکنش
+die Abteilung : بخش
+die Kundenzufriedenheit : رضایت مشتری
+die Reklamation : شکایت، اعتراض
+der Apparat : دستگاه (مثلاً Fotoapparat)
+die Zauberei : جادو
+die Festplatte : هارد دیسک
+das Laufwerk : دیسک گردان، درایو
+die Tastatur : صفحه کلید
+der Roboter : ربات
+die Aufforderung : درخواست، تقاضا
+die Vorhersage : پیش بینی
+der Ratgeber : راهنما
+die Begrüßung : خوشامدگویی
+das Gastgeschenk : چیزی که مهمان به عنوان هدیه به میزبان میدهد
+der Aperitif : نوشیدنی پیش غذا (معمولاً اشتها آور هست)
+die Hauptspeise : غذای اصلی
+der Nachtisch : دسر
+die Tischmanieren : آداب غذا خوردن
+die Kantine : غذاخوری شرکت یا کارخانه
+das Geschäftsessen : ناهار یا شام کاری
+der Gastgeber : میزبان
+die Reihenfolge : ترتیب، توالی
+das Zeichen : علامت، نشانه
+der Ignorant : نادان، بی اطلاع
+die Unterhaltung : سرگرمی
+die Sitten : رسوم و سنت ها
+die Geräusche : صداها
+das Tierheim : پناهگاه حیوانات
+der Zirkus : سیرک
+die Tierhandlung : فروشگاه لوازم حیوانات
+die Bürste : بُرِس
+das Futter : خوراک دام
+der Käfig : قفس
+das Gehege : قفس حیوانات
+der Napf : ظرف غذای حیوانات
+das Heu : علف، یونجه خشک
+das Meerschweinchen : خوکچه هندی
+das Kaninchen : خرگوش
+der Fisch : ماهی
+die Pflege : مراقبت، پرستاری
+die Gesellschaft : اجتماع
+die Pflicht : وظیفه
+der Hinweis :  نشانه ،راهنمایی
+der Allergiker : فرد مبتلا به حساسیت
+die Entspannung : تمدد اعصاب
+die Abwechslung : تنوع
+die Studiengang : رشته تحصیلی
+das Wohlbefinden : سلامتی، رفاه
+die Mahlzeiten : وعده های غذایی
+die Nahrungsmittel : مواد غذایی
+das Missverständnis : سوء تفاهم
+die Bedeutungen : معانی
+der Hahn : خروس، شیر آب
+das Schloss : قفل، قصر
+die Schlange : صف، مار
+der Advokat : وکیل
+der Übersetzungsfehler : خطای ترجمه
+der Witz : لطیفه
+die Begabung : استعداد
+die Betonung : تأکید
+der Nagel : ناخن، میخ
+die Leiter :  نردبان
+der Schlaf : خواب
+die Birne : گلابی، لامپ
+der Teekessel : کتری
+der Dialekt : گویش و لهجه
+die Gefahr : خطر
+die Teilnahme : شرکت، مشارکت، علاقه مندی
+das Gelingen : موفقیت
+die Kultur : فرهنگ
+die Kunst : هنر
+die Wirtschaft : اقتصاد
+die Gesundheit : سلامتی
+die Ernährung : تغذیه
+der Körper : جسم، بدن
+die Volkshochschule : مدرسه بزرگسالان
+der Einblick : نظر، نگاه کلی
+das Thema : موضوع
+das Talent : استعداد
+die Fähigkeiten : مهارت ها، توانایی ها
+die Karriere : حرفه، مسیر شغلی
+die Konzentration : تمرکز حواس
+das Vertrauen : اعتماد
+die Grundlage : پایه، اساس
+die Haltung : طرز برخورد، نگرش
+die Gestik : ایما و اشاره
+die Mimik : حالت چهره
+die Natürlichkeit : ظبیعی بودن
+der Ton : آهنگ، تن صدا
+das Gericht : غذا، دادگاه
+die Gewürze : ادویه جات
+die Kräuter : گیاه دارویی
+die Kostprobe : تست مزه (ظرف کوچک برای امتحان کردن مزه غذا)
+der Stoffrest : باقیمانده پارچه
+die Nähnadeln : سوزن های خیاطی
+das Nähgarn : نخ خیاطی
+die Fantasie : خیال پردازی
+der Fremde : بیگانه
+der Krusbeginn : شروع کلاس
+die Vermutung : حدس، گمان
+die Herstellung : تولید، ساخت
+die Sitzhaltung : حالت نشستن
+das Lächeln : لبخند
+der Blickkontakt : تماس چشمی
+die Gesten : حرکات دست
+die Basis : پایه، اساس
+das Handwerk : صنایع دستی، کار دستی
+der Notar : سر دفتر
+der Beamte : کارمند دولت
+der Dichter : شاعر
+der Wissenschaftler : دانشمند
+der Socialarbeiter : مددکار اجتماعی
+der Psychologe : روانشناس
+der Streit : دعوا
+der Kuss : بوسه
+die Lüge : دروغ
+der Trainer : مربی
+der Krieg : جنگ
+das Elternhaus : خانه والدین
+der Konflikt : اختلاف
+die Ehe : ازدواج
+die Generation : نسل
+die Erziehung : تربیت
+die Freundschaft : دوستی
+das Alter : سن
+der Gegensatz : تضاد، ضد
+die Malerei : نقاش
+die Galerie : گالری
+der Maler : نقاش
+der Künstler : هنرمند
+das Stillleben : طبیعت بی جان
+die Landschaft :  چشم انداز، منظره
+die Mauer : دیوار
+die Anerkennung : تقدیر، قدر شناسی
+die Kunstakademie : آکادمی هنر
+die Form : شکل، هیکل
+die Zeichnung : طراحی
+die Skizze : طرح اولیه
+der Pinsel : قلم مو
+der Heiratsantrag : خواستگاری
+die Staffel : دسته، فصل (سریال)
+die Trennung : جدایی، دوری
+die Depression : افسردگی
+die Zerstörung : تخریب، ویرانی
+der Weltkrieg : جنگ جهانی
+das Vorurteil : پیش داوری
+die Wiedervereinigung : اتحاد دوباره
+die Einheit : اتحاد
+die Kernenergie : انرژی هسته ای
+die Windenergie : انرژی باد
+der Klimaschutz : حفاظت از آب و هوا
+der Tierschutz : حفاظت از حیوانات
+der Datenschutz : حفاظت از داده ها
+die Bildung : آموزش
+die Forschung : تحقیق، پژوهش
+der Frieden : صلح 
+die Arbeitslosigkeit : بیکاری
+die Kinderbetreuung : نگهداری از کوکان
+die Finanzen : سرمایه، وضع مالی
+die Sicherheit : امنیت
+das Einzel : فرد، شخص
+der Verein : انجمن، باشگاه
+der Lohn : حقوق، دستمزد
+der Bürgerbeteiligung : مشارکت شهروندان
+die Demokratie : دموکراسی
+die Regierung : دولت، حکومت
+die Opposition : گروه مخالف
+die Partei : حزب
+der Vertreter : نماینده
+die Reportage : گزارش خبری
+die Ware : کالا
+die Wahlbeteiligung : مشارکت در انتخابات
+die Minderheit : اقلیت
+der Minister : وزیر
+der Skandal : رسوایی
+die Ansicht : دیدگاه، نظر
+die Verlängerung : تمدید
+die Heide : علفزار
+das Heidekraut : گیاهی که در علفزار رشد میکند
+das Moor : مرداب، باتلاق
+der Bach : جویبار
+das Gras : علف
+der Bauer : کشاورز
+die Biene : زنبور
+der Honig : عسل
+die Wolle : پشم
+das Vieh : دام
+das Schaf : گوسفند
+die Herde : گله
+die Pflanze : گیاه
+der Acker : زمین کشاورزی
+die Blüte : شکوفه
+das Pferd : اسب
+die Landwirtschaft : کشاورزی
+die Presse : مطبوعات
+das Ereignis : اتفاق، رویداد
+das Rathaus : شهرداری
+die Gegend : منطقه
+die Erhaltung : حفاظت
+der Auftritt : اجرا، نمایش
+das Dorf : روستا
+das Getreide : غلات
+der Fluss : رودخانه
+das Publikum : تماشاگران
+der Fan : طرفدار
+das Autogramm : امضا
+das Interview : مصاحبه 
+das Lampenfieber : ترس از صحنه
+der Soundcheck : تنظیم صدا
+die Technik : تکنولوژی، تکنیک، فن
+der Tourneebus : اتوبوس تور
+der Konzertsaal : سالن کنسرت
+das Plakat : پوستر
+der Notausgang : خروج اضطراری
+der Lautsprecher : بلند گو
+die Garderobe : رختکن
+die Probe : تمرین
+der Misserfolg : شکست
+das Gewirr : شلوغی، آشفتگی
+die Ausfahrt : خروج
+das Gelände : محوطه، زمین
+die Zeche : معدن
+das Weingut : باغ انگور، تاکستان
+die Gewohnheit : عادت
+der Daumen : انگشت شست
+die Stimmung : حال و هوا
+der Mädchenabend : گروه موسیقی دخترانه
+der Empfang : پذیرایی، وصول
+der Straßenrand : کنار خیابان
+der Genuss : لذت، حظ
+das Vergnügen : ، تفریح، خوشی
+die Stadtführung : تور شهری
+die Fröhlichkeit : شادی
+die Gastfreundschaft : مهمان نوازی
+die Atmosphäre : جو، حال و هوا
+der Mauerbau : ساخت دیوار
+der Euro : یورو
+der Soldat : سرباز
+das Denkmal : بنای یادبود
+die Revolution : انقلاب
+die Teilung : تقسیم، تفکیک
+die Besatzungszone : منطقه اشغال شده
+der Trabant : ترابانت (نام خودرویی کوچک در زمان های گذشته در آلمان)
+die Datsche : کلبه تابستانی
+die Gründung : تأسیس
+die Einführung : مقدمه
+die Alternative : جایگزین
+die Vision : دیدگاه، چشم انداز
+das Elektroauto : خودرو الکتریکی
+das Carsharing : اشتراک گذاری خودرو
+der Smog : دود، مه
+die Klimawärmung : گرمایش زمین
+die Wetterextreme : پدیده های شدید آب و هوایی
+der Selbstversorger : خودکفا
+die Bioprodukte : محصولات ارگانیک
+der Pflegeroboter : ربات پرستار
+das Altenheim : خانه سالمندان
+das Mehrgenerationen-Haus : خانه چند نسلی
+die Reihe : ردیف
+der Kompromiss : مصالحه، سازش
+die Einzelheit : جزئیات
+das Blatt : برگه، صفحه
+die Kritik : انتقال
+der Rollstuhlfahrer : کاربر صندلی چرخدار
+das Engagement : تعهد
+die Vielfalt : تنوع
+die Überwachung : نظارت 
+der Transport :  حمل و نقل
+das Unternehmen : شرکت
+die Macht : قدرت
+die Beschwerde : شکایت، اعتراض
+das Kriegsende : پایان جنگ
+die Sowjetunion : اتحاد جماهیر شوروی
+die Westmächte : قدرت های غربی
+das Gefängnis : زندان
+die Europäische Union : اتحادیه اروپا
+die Luftbrücke : پل هوایی
+der Nationalfeiertag : تعطیلی کشوری
+die Knappheit : کمبود
+die Meinungsäußerung : ابراز عقیده
+die Verhaftung : بازداشت
+die Sequenz : توالی
+die Demonstration : تظاهرات
+die Truppe : نیروهای نظامی
+die Selbstständigkeit : استقلال
+der Beitritt : عضویت
+die Volksabstimmung : همه پرسی
+das Quiz : امتحان اطلاعات عمومی
+die Umweltverschmutzung : آلودگی محیط زیست
+der Konsum : مصرف
+der Sturm : طوفان
+der Abschluss : مدرک پایان تحصیل، پایان
+die Mobilität : تحرک
+die Voraussetzung : پیش نیاز، پیش شرط
+der Radweg : مسیر دوچرخه
+das Ersatzteil : قطعه یدکی
+die Scherbe : خرده شیشه
+der Dienst : خدمات
+das Umfeld : محیط
+der Stau : ترافیک
+das Argument : استدلال
+der Schütze : تیرانداز، صورت فلکی تیرانداز
+der Fußgänger : عابر پیاده
+der Geldbeutel : کیف پول
+der Standpunkt : دیدگاه، نظر
+die Vorschrift : مقررات
+die Industrie : 
+das Gesetz : قانون
+mehrfach : چند باره
+zuständig : مسئول
+automatisch : خودکار
+besetzt : اشغال شده
+erreichbar : قابل دسترس
+ärgerlich : آزار دهنده
+möglicherweise : احتمالاً
+jeweilig : مربوطه
+Zu guter Letzt : در نهایت
+sogar : حتی
+momentan : در حال حاضر 
+mehrere : چندین
+ernsthaft : جدی، به صورت جدی
+infrage : مورد بحث
+teamfähig : توانایی کار تیمی
+flexibel : انعطاف پذیر
+unordentlich : نامرتب
+unorganisiert : بی برنامه
+unpünktlich : وقت نشناس
+kontaktfreudig : اجتماعی
+zuverlässig : قابل اعتماد
+hilfsbereit : مفید، کمک کننده
+freundlich : صمیمی، دوستانه
+höflich : مودب
+gestresst : استرس دار
+geeignet : مناسب
+selten : کمیاب
+schüchtern : خجالتی
+wissenschaftlich : علمی
+individuell : منحصر به فرد
+munter : سر حال
+mindestens : حداقل
+anfällig : آسیب پذیر، حساس
+untereinander : بین یکدیگر
+vorbildlich : نمونه، ایده آل
+weshalb : چرا، به چه دلیل
+rechtzeitig : سر وقت
+nass : خیس، مرطوب
+leer : خالی
+zornig : خمشگین
+begeistert : هیجان زده
+volljährig : بالغ
+endlich : بالاخره
+eindeutig : واضح
+erlebnisreich : پر از تجربه
+voraus : پیشاپیش
+vernünftig : منطقی
+großzügig : سخاوتمند
+fair : منصفانه
+intelligent : باهوش
+frech : گستاخ
+kreativ : خلاق
+realistisch : واقع بین
+sparsam : صرفه جو، اقتصادی
+Aufmerksam : با دقت، با ملاحضه
+psychologisch : روان شناختی
+mutig : شجاع
+nervös : عصبی
+kritisch : انتقادی
+ernst : جدی
+streng : سخت گیر
+finanziell : مالی
+lebendig : روشن ،زنده
+humorvoll : شوخ طبع
+wahnsinnig : دیوانه وار
+ziemlich : نسبتاً
+arrogant : متکبر
+hilfreich : مفید
+anstrengend : طاقت فرسا
+angenehm : دل پذیر
+merkwürdig : عجیب
+gleich : برابر
+sozial : اجتماعی
+schrecklich : وحشتناک
+kaum : به سختی، به ندرت
+todmüde : خیلی خسته
+wahr : درست، واقعی
+ebenfalls : همچنین
+gegenseitig : متقابل (برای مثال، احترام متقابل)
+außerdem : علاوه بر این
+allererst : اول از همه (در شروع یک جمله معمولاً استفاده میشه)
+ab und zu : گاهی اوقات
+anspruchsvoll : پر توقع
+vorhin : کمی قبل
+insgesamt : روی هم رفته، به طور کلی
+vor allem : به خصوص، به ویژه
+allerdings : البته، اگرچه (قید)
+einsam: تنها
+peinlich : شرم آور
+böse : شر، بد، بد ذات
+betrunken : مست
+augenblicklich : فوری
+plötzlich : ناگهان
+undeutlich : نامشخص
+langsam : آرام
+rückwärts :  عقبگرد ، رو به عقب
+interkulturell : میان فرهنگی
+geistig : ذهنی
+bequem : راحت 
+häufig : اغلب، متداول
+notwendig : ضروری، لازم
+duftend : معطر
+exotisch : عجیب و غریب
+versteckt : پنهان
+vermutlich : احتمالاً
+üblich : معمول، رایج
+bisher : تاکنون
+ungewöhnlich : غیر معمول
+herrlich : باشکوه
+tatsächlich : واقعاً
+vorstellbar : قابل تصور
+jugendlich : جوان
+skeptisch : شکاک
+mehrmals : چندین بار
+völlig : کاملاً
+wundervoll : فوق العاده
+ausverkauft : به فروش رفته
+entgegen : برخلاف
+sonstig : دیگر
+eben : صاف، حتی، همین حالا
+nötig : ضروری، مورد نیاز (توضیح اینکه در ویدئو از یک کلمه اشتباه استفاده شده)
+schuldlos : بی گناه
+zuletzt : در آخر
+ungewöhnlich : غیر عادی
+begeistert : هیجان زده
+vorig :  قبلی
+neugierig : کنجکاو
+eventuell : احتمالاً
+verschlossen : مهر و مو شده
+friedlich : مسالمت آمیز
+angeblich : ظاهراً
+hinterher : بعداً
+egal : یکسان
+entscheidend : تعیین کننده، حیاتی
+lebenswert : قابل زیستن
+nützlich : مفید
+offenbar : ظاهراً، آشکارا، آشکار
+zufrieden : راضی
+alleinziehend : تک سرپرست، تک والد
+sogenannt : به اصطلاح، به قول معروف
+abseits : خارج از
+anwesend : حاضر
+rechnen : محاسبه کردن
+bedenken : در نظر گرفتن
+zu/treffen : درست بودن (مثلاً درست بودن یک قانون برای بچه ها)
+an/schaffen : تهیه کردن، خرید کردن
+aus/füllen : پر کردن
+auf/bauen : ساختن
+ein/bringen : آوردن، مشارکت داشتن
+übernehmen : به عهده گرفتن
+heraus/finden : کشف کردن
+erarbeiten : کار کردن برای
+zusammen/stellen : جمع آوری کردن
+versorgen : تأمین کردن
+schaden : آسیب زدن
+unterstützen : حمایت کردن
+berücksichtigen : در نظر گرفتن
+erhalten : دریافت کردن
+verbinden : متصل کردن
+an/bieten : ارائه کردن
+erläutern : توضیج دادن
+verursachen : موجب شدن
+berichten : گزارش دادن
+nennen : نام بردن
+beenden : پایان دادن
+verbieten : ممنوع کردن
+ein/gehen : وارد شدن، پذیرفتن
+falten : تا کردن، چین دادن
+an/spannen : سفت کردن
+hin/stellen : قرار دادن
+stecken lassen : رها کردن
+blitzen : برق زدن، فلاش زدن
+wettspielen : بازی کردن به صورت رقابتی
+schief gehen : بی نتیجه ماندن
+bereuen : پشیمان بودن
+jubeln : شادی کردن
+durch/schlafen : تمام شب خوابیدن
+abgeben : تحویل دادن
+genießen : لذت بردن
+anlächeln : لبخند زدن
+vertreten : نماینده بودن
+erkundigen : جویا شدن
+plaudern : گپ زدن
+vorschlagen : پیشنهاد کردن
+durch/setzen : پیش بردن
+wirken : تاثیر گذاشتن
+erledigen : انجام دادن
+ab/hängen : بستگی داشتن
+entschließen : تصمیم گرفتن
+sich fülen : احساس کردن
+erwarten : انتظار داشتن
+beschäftigen : استخدام کردن
+dauern : طول کشیدن
+bezahlen : پرداخت کردن
+beingen : آوردن
+empfehlen : توصیه کردن
+halten : نگه داشتن
+strukturieren : سازماندهی کردن
+sammeln : جمع آوی کردن
+vermitteln : واسطه گری کردن
+werfen : پرتاب کردن
+schauen : نگاه کردن
+amüsieren: سرگرم شدن، لذت بردن
+an/sprechen : مخاطب قرار دادن
+renovieren : بازسازی کردن
+einziehen : نقل مکان کردن
+aus/ruhen : استراحت کردن
+steigen : بالا رفتن، اوج گرفتن
+drücken : فشار دادن
+kündigen : فسخ کردن
+erreichen : رسیدن، دست یافتن
+ein/leiten : شروع کردن
+aus/richten : تنظیم کردن، برگزار کردن، پیغام رساندن
+fordern :  درخواست کردن
+abonnieren : مشترک شدن
+reklamieren : شکایت کردن، اعتراض کردن
+enttäuschen : ناامید شدن
+entstehen : نتیجه دادن، به وقوع پیوستن، به وجود آمدن (توضیح اینکه در ویدئو اشتباهاً از حالت گذشته یا صفت این فعل استفاده شده)
+fressen : خوردن (عملی خوردن در حیوانات)
+fürchten :ترسیدن
+beobachten : مشاهده کردن
+benehmen : رفتار کردن
+beurteilen : قضاوت کردن
+bestimmen : تعیین کردن
+würzen : ادویه زدن
+probieren : امتحان کردن
+verbringen : گذراندن، سپری کردن
+beleidigen : توهین کردن
+auf/essen : تمام کردن غذا
+sauber machen : تمیز کردن
+streicheln : نوازش کردن
+füttern : غذا دادن
+nach/fragen : پرس و جو کردن
+erfahren :  تجربه کردن ،اطلاع یافتن، مطلع شدن
+auf/klären : توضیح دادن ،روشن کردن  
+beißen : گاز گرفتن
+erschrecken : ترساندن
+wiederholen : تکرار کردن
+merken : متوجه شدن
+aus/probieren : امتحان کردن
+aus/bauen : گسترش دادن
+klettern : بالا رفتن
+heraus/fordern : به چالش کشیدن
+verwalten : مدیریت کردن
+benötigen : نیاز داشتن
+hinzu/fügen : اضافه کردن
+knüpfen : گره زدن
+lügen : دروغ گفتن
+kommunizieren : ارتباط برقرار کردن
+zu/bereiten : آماده کردن
+stammen :  ریشه داشتن در، اهل جایی بودن
+nähen : دوختن
+entwerfen : طراحی کردن
+faszinieren : مجذوب کردن
+umfassen : شامل شدن
+belegen : اثبات کردن، ثبت نام کردن
+weiter/entwickeln : توسعه دادن
+koordinieren : هماهنگ کردن
+erraten : حدس زدن
+beherrschen : تسلط پیدا کردن، دستور دادن
+kümmern : مراقبت کردن
+begegnen : روبرو شدن
+küssen : بوسیدن
+sich verlieben : عاشق شدن
+trennen : جدا کردن
+erziehen : تربیت کردن
+auf/wachsen : بزرگ شدن
+ab/grenzen : محدود کردن
+entstehen : به وجود آمدن
+fällen : قطع کردن
+brechen : شکستن
+verstecken : پنهان کردن
+besichtigen : بازدید کردن
+sterben : مردن
+sinken : پایین رفتن
+fliehen : فرار کردن
+leiden : رنج بردن
+boykottieren : تحریم کردن
+ein/halten : رعایت کردن
+versprechen : قول دادن
+etablieren : تأسیس کردن
+überein/stimmen : توافق داشتن
+vergleichen : مقایسه کردن
+betreuen : مراقبت کردن
+sich erinnern : به یاد آوردن
+blühen : شکوفا شدن
+auf/führen : اجرا کردن
+verfahren : عمل کردن
+verpassen : از دست دادن
+erschöpfen : خسته کردن
+aus/tauschen :  مبادله کردن ،تعویض کردن
+schleppen : کشیدن
+auf/tauchen : ظاهر شدن
+herumreichen : دست به دست کردن
+gründen : بنیان گذاری کردن
+ein/packen : بسته بندی کردن
+bereitstellen : آماده کردن
+überraschen : غافل گیر کردن
+behandeln : درمان کردن
+versäumen :  از دست دادن
+ein/führen :  معرفی کردن ،وارد کردن
+zwingen : مجبور کردن
+verlassen : ترک کردن
+auf/schieben : به تعویق انداختن
+erscheinen :   به نظر رسیدن، منتشر شدن
+loben : تحسین کردن
+beeindrucken : تحت تاثیر قرار دادن
+zu/stimmen : موافقت کردن
+bewegen : حرکت دادن
+drehen : چرخاندن
+fördern : حمایت کردن
+übertragen : منتقل کردن
+veröffentlichen : منتشر کردن
+ein/richten : چیدن اسباب و اثاثیه
+verbessern : بهتر کردن
+umgehen : برخورد کردن
+spüren : حس کردن
+sparen : پس انداز کردن
+verzichten : صرفنظر کردن
+verschlechtern : بدتر شدن
+konsumieren : مصرف کردن
+ärgern : اذیت کردن، آزار دادن
+lösen : حل کردن
+überholen : سبقت گرفتن
+reißen : پاره کردن
+fest/legen : تعیین کردن
+schuppern : لمس کردن
+ernten : درو کردن
+zünden : روشن کردن
+verdienen : کسب کردن

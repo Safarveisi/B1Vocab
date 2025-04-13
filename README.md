@@ -1,0 +1,1 @@
+This repository includes necessary German words at B1-level. The words have been extrated from [this Youtube video](https://www.youtube.com/watch?v=TOPMsB4OIRU). All words are available in `vocab.txt`. Note that the file icludes nouns, verbs, adjectives and adverbs. Finally, each row in `vocab.txt` consists of a German word and its translation into Persian. 
