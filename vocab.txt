@@ -114,7 +114,7 @@ das Einfamilienhaus : خانه تک خانواده ای
 das Reihenhaus : خانه ردیفی (خانه ای مشابه با خانه های دیگر در یک ردیف)
 die Illustrierte : مجله مصور
 der Bewohner : ساکن، مقیم
-der Traum : رؤیا، خوب
+der Traum : رؤیا، خواب
 das Heim : خانه، کاشانه
 der Artikel : مقاله، حرف تعریف
 die Wohnungsnot : کمبود مسکن
