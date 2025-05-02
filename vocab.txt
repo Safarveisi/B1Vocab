@@ -40,7 +40,7 @@ die Pannen : خرابی ها، نقض ها
 die Radiosendung : برنامه رادیویی
 der Benzintank : باک بنزین
 der Stau : ترافیک
-der Trauseuge : شاهد عروسی (مرد)
+der Trauzeuge : شاهد عروسی (مرد)
 der Ferientag : روز تعطیل
 das Lotto : لاتاری
 das Turnier : مسابقه، تورنمنت
@@ -314,7 +314,7 @@ die Bildung : آموزش
 die Forschung : تحقیق، پژوهش
 der Frieden : صلح 
 die Arbeitslosigkeit : بیکاری
-die Kinderbetreuung : نگهداری از کوکان
+die Kinderbetreuung : نگهداری از کودکان
 die Finanzen : سرمایه، وضع مالی
 die Sicherheit : امنیت
 das Einzel : فرد، شخص
@@ -419,7 +419,7 @@ die Reihe : ردیف
 der Kompromiss : مصالحه، سازش
 die Einzelheit : جزئیات
 das Blatt : برگه، صفحه
-die Kritik : انتقال
+die Kritik : انتقاد
 der Rollstuhlfahrer : کاربر صندلی چرخدار
 das Engagement : تعهد
 die Vielfalt : تنوع
@@ -463,7 +463,7 @@ der Fußgänger : عابر پیاده
 der Geldbeutel : کیف پول
 der Standpunkt : دیدگاه، نظر
 die Vorschrift : مقررات
-die Industrie : 
+die Industrie : صنعت
 das Gesetz : قانون
 mehrfach : چند باره
 zuständig : مسئول
@@ -593,7 +593,7 @@ begeistert : هیجان زده
 vorig :  قبلی
 neugierig : کنجکاو
 eventuell : احتمالاً
-verschlossen : مهر و مو شده
+verschlossen : مهر و موم شده
 friedlich : مسالمت آمیز
 angeblich : ظاهراً
 hinterher : بعداً
@@ -603,7 +603,7 @@ lebenswert : قابل زیستن
 nützlich : مفید
 offenbar : ظاهراً، آشکارا، آشکار
 zufrieden : راضی
-alleinziehend : تک سرپرست، تک والد
+alleinerziehend : تک سرپرست، تک والد
 sogenannt : به اصطلاح، به قول معروف
 abseits : خارج از
 anwesend : حاضر
@@ -659,7 +659,7 @@ erwarten : انتظار داشتن
 beschäftigen : استخدام کردن
 dauern : طول کشیدن
 bezahlen : پرداخت کردن
-beingen : آوردن
+bringen : آوردن
 empfehlen : توصیه کردن
 halten : نگه داشتن
 strukturieren : سازماندهی کردن
@@ -683,8 +683,8 @@ abonnieren : مشترک شدن
 reklamieren : شکایت کردن، اعتراض کردن
 enttäuschen : ناامید شدن
 entstehen : نتیجه دادن، به وقوع پیوستن، به وجود آمدن (توضیح اینکه در ویدئو اشتباهاً از حالت گذشته یا صفت این فعل استفاده شده)
-fressen : خوردن (عملی خوردن در حیوانات)
-fürchten :ترسیدن
+fressen : خوردن (عمل خوردن در حیوانات)
+fürchten : ترسیدن
 beobachten : مشاهده کردن
 benehmen : رفتار کردن
 beurteilen : قضاوت کردن
@@ -752,7 +752,7 @@ betreuen : مراقبت کردن
 sich erinnern : به یاد آوردن
 blühen : شکوفا شدن
 auf/führen : اجرا کردن
-verfahren : عمل کردن
+verfahren : پیشروی کردن 
 verpassen : از دست دادن
 erschöpfen : خسته کردن
 aus/tauschen :  مبادله کردن ،تعویض کردن
